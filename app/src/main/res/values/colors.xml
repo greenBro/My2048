@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="scoreback">#8fffffff</color>
+    <color name="background">#fbe3b0</color>
+    <color name="gridlevel1">#fdd89c</color>
+    <color name="gridlevel2">#ffbd7d</color>
+    <color name="gridlevel3">#ffb448</color>
+    <color name="gridlevel4">#ffa11a</color>
+    <color name="gridlevel5">#f57416</color>
+    <color name="gridlevel6">#f6684c</color>
+    <color name="gridlevel8">#fff8a3</color>
+    <color name="gridlevel9">#ffea74</color>
+    <color name="gridlevel10">#f2b852</color>
+    <color name="gridlevel11">#dc783c</color>
+    <color name="gridlevel12">#dd661e</color>
+    <color name="gridlevel13">#ff7c66</color>
+    <color name="gridlevel14">#ff8a00</color>
+    <color name="gridlevel15">#f20044</color>
+
+
+
+</resources>

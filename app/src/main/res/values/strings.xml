@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My2048</string>
+    <string name="score">得分</string>
+    <string name="bestscore">最高分</string>
+    <string name="title">2048</string>
+    <string name="tvtips">人到中年解决问题都是靠烧香拜佛的。</string>
+</resources>
